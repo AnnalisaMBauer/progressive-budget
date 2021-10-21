@@ -42,4 +42,4 @@ https://user-images.githubusercontent.com/87721575/138180426-ce52b08d-29e4-4be5-
 
 
 ## Contact
-Please contact me at annalisa.bauer1@gmail.com with any questions or concerns.
+Please contact me at annalisa.bauer1@gmail.com with any questions or concerns. A copy of the deployed application can be seen at the following  https://annalisambauer.github.io/progressive-budget/
